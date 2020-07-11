@@ -1,5 +1,5 @@
 # Memory_Card-Game
-This is a basic memory game with 16 Tiles.
+This is a basic memory game with 16 Tiles made with Python's PyGame library.
 
 #How to Play
 There are 16 tile with 8 unique images. 
